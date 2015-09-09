@@ -2,13 +2,21 @@ extern crate ffb_drafter;
 
 use ffb_drafter::*;
 
+use std::collections::HashMap;
+
 fn main() {
-    let nfl_teams = vec!["BAL","BUF","CIN","CLE","DEN","HOU","IND","JAC",
-                         "KC","MIA","NE","NYJ","OAK","PIT","SD","TEN",
-                         "ARI","ATL","CAR","CHI","DAL","DET","GB","MIN",
-                         "NO","NYG","PHI","STL","SF","SEA","TB","WAS"];
+    let mut players: HashMap<String, ffb_io::Player> = HashMap::new();
 
-    let nfl_teams: Vec<String> = nfl_teams.iter().map(|w| w.to_lowercase()).collect();
+    ffb_io::read_raw_players(r"data/qb.dat", ffb_io::Position::QB, &mut players);
 
-    ffb_io::read_raw_players(r"data/qb.dat", ffb_io::Position::QB);
+    // Convert players to json
+    ffb_io::write_players_json(r"data/players.json", &players);
+
+    // Make sure we can read them back
+    players.clear();
+    ffb_io::read_players_json(r"data/players.json", &mut players);
+
+    for val in players.values() {
+        println!("{:?}", val);
+    }
 }

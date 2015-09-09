@@ -2,9 +2,11 @@ extern crate serde;
 extern crate serde_json;
 extern crate regex;
 
+use std::collections::HashMap;
 use std::fs::File;
 use std::io::BufReader;
 use std::io::BufRead;
+use std::io::Write;
 use std::path::Path;
 
 use regex::Regex;
@@ -37,7 +39,7 @@ impl Player {
     }
 
     fn to_json(&self) -> String {
-        serde_json::to_string(&self.name).unwrap()
+        serde_json::to_string(&self).unwrap()
     }
 
     fn from_json(name: &str) -> Player {
@@ -47,7 +49,7 @@ impl Player {
 }
 
 /// Read the players in a raw format
-pub fn read_raw_players(filename: &str, pos: Position) {
+pub fn read_raw_players(filename: &str, pos: Position, players: &mut HashMap<String, Player>) {
     let path = Path::new(filename);
     let file = match File::open(&path) {
         Err(why) => panic!("failed to open {}: {}", path.display(), why),
@@ -67,7 +69,39 @@ pub fn read_raw_players(filename: &str, pos: Position) {
                                    .collect();
         let points: f32 = words[9].parse().unwrap();
         let player = Player::new(&name, pos.clone(), points);
-        println!("{:?}", player);
+        players.insert(name, player.clone());
+    }
+}
+
+/// Read the entire player database from JSON
+pub fn read_players_json(filename: &str, players: &mut HashMap<String, Player>) {
+    let path = Path::new(filename);
+    let file = match File::open(&path) {
+        Err(why) => panic!("failed to open {}: {}", path.display(), why),
+        Ok(f) => f,
+    };
+
+    for line in BufReader::new(file).lines() {
+        let ln: String = line.unwrap();
+        let player: Player = Player::from_json(&ln);
+        players.insert(player.name.to_owned(), player.clone());
+    }
+}
+
+/// Write the entire player database in JSON format using serde
+pub fn write_players_json(filename: &str, players: &HashMap<String, Player>) {
+    let path = Path::new(filename);
+    let mut file = match File::create(&path) {
+        Err(why) => panic!("couldn't create {}: {}", path.display(), why),
+        Ok(f) => f,
+    };
+
+    for player in players.values() {
+        let ln = player.to_json() + "\n";
+        match file.write_all(ln.as_bytes()) {
+            Err(why) => println!("couldn't write to {}: {}", path.display(), why),
+            Ok(_) => (),
+        }
     }
 }
 
