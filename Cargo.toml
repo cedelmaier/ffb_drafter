@@ -7,4 +7,5 @@ authors = ["cedelmaier <christopher.edelmaier@colorado.edu>"]
 serde = "*"
 serde_json = "*"
 serde_macros = "*"
+regex = "*"
 
