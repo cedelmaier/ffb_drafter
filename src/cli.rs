@@ -19,6 +19,7 @@ pub fn main_loop() {
                 "read_raw"  => read_raw(&mut params),
                 "read_db"   => read_db_json(&mut params),
                 "write_db"  => write_db_json(&mut params),
+                "print_db"  => print_db(),
                 _           => println!("Unknown command: {}", first_word),
             }
         }
@@ -34,6 +35,10 @@ pub fn version() {
 
 pub fn init() {
 
+}
+
+pub fn print_db() {
+    
 }
 
 pub fn read_raw(params: &mut Params) {
