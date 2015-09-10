@@ -88,7 +88,7 @@ pub fn read_players_json(filename: &str, players: &mut HashMap<String, Player>) 
     }
 }
 
-/// Write the entire player database in JSON format using serde
+/// Write the entire player database in JSON
 pub fn write_players_json(filename: &str, players: &HashMap<String, Player>) {
     let path = Path::new(filename);
     let mut file = match File::create(&path) {
