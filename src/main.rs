@@ -19,4 +19,7 @@ fn main() {
     for val in players.values() {
         println!("{:?}", val);
     }
+
+    // Start the CLI interface
+    cli::main_loop();
 }
