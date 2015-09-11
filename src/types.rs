@@ -17,7 +17,7 @@ pub enum Position {
     DEF,
 }
 
-#[derive(Serialize, Deserialize, Debug, Clone)]
+#[derive(Serialize, Deserialize, Clone, Debug)]
 pub struct Player {
     pub name: String,
     pub team: String,
@@ -42,3 +42,4 @@ impl Player {
         deserialized
     }
 }
+

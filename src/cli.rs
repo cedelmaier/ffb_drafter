@@ -23,8 +23,8 @@ pub fn main_loop() {
                 "read_raw"  => read_raw(&mut params, &mut engine),
                 "read_db"   => read_db_json(&mut params, &mut engine),
                 "write_db"  => write_db_json(&mut params, &mut engine),
-                "print"  => engine.print(),
-                "clear"  => engine.clear(),
+                "print"     => engine.print(),
+                "clear"     => engine.clear(),
                 _           => println!("Unknown command: {}", first_word),
             }
         }

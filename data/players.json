@@ -1,50 +1,50 @@
-{"name":"EJ Manuel","team":"BUF","pos":{"QB":[]},"points":40}
-{"name":"Chad Henne","team":"JAC","pos":{"QB":[]},"points":22.2}
-{"name":"Carson Palmer","team":"ARI","pos":{"QB":[]},"points":286.2}
-{"name":"Tyrod Taylor","team":"BUF","pos":{"QB":[]},"points":99.4}
-{"name":"Peyton Manning","team":"DEN","pos":{"QB":[]},"points":360}
-{"name":"Drew Stanton","team":"ARI","pos":{"QB":[]},"points":13.4}
-{"name":"Ryan Mallett","team":"HOU","pos":{"QB":[]},"points":123.2}
-{"name":"Zach Mettenberger","team":"TEN","pos":{"QB":[]},"points":36.4}
-{"name":"Andrew Luck","team":"IND","pos":{"QB":[]},"points":430.3}
-{"name":"Matthew Stafford","team":"DET","pos":{"QB":[]},"points":346.3}
-{"name":"Jay Cutler","team":"CHI","pos":{"QB":[]},"points":320.2}
-{"name":"Matt Cassel","team":"BUF","pos":{"QB":[]},"points":143.7}
-{"name":"Teddy Bridgewater","team":"MIN","pos":{"QB":[]},"points":301.4}
-{"name":"Colin Kaepernick","team":"SF","pos":{"QB":[]},"points":329.5}
-{"name":"Eli Manning","team":"NYG","pos":{"QB":[]},"points":329.8}
-{"name":"Mark Sanchez","team":"PHI","pos":{"QB":[]},"points":119.2}
-{"name":"Johnny Manziel","team":"CLE","pos":{"QB":[]},"points":80.7}
-{"name":"Ryan Nassib","team":"NYG","pos":{"QB":[]},"points":13.6}
-{"name":"Blaine Gabbert","team":"SF","pos":{"QB":[]},"points":13.6}
-{"name":"Andy Dalton","team":"CIN","pos":{"QB":[]},"points":302.3}
-{"name":"Robert Griffin III","team":"WAS","pos":{"QB":[]},"points":287.8}
-{"name":"Geno Smith","team":"NYJ","pos":{"QB":[]},"points":104.8}
-{"name":"Drew Brees","team":"NO","pos":{"QB":[]},"points":333.3}
-{"name":"Brandon Weeden","team":"DAL","pos":{"QB":[]},"points":20.4}
-{"name":"Alex Smith","team":"KC","pos":{"QB":[]},"points":290.3}
-{"name":"Derek Carr","team":"OAK","pos":{"QB":[]},"points":283.9}
-{"name":"Matt Ryan","team":"ATL","pos":{"QB":[]},"points":353.9}
-{"name":"Nick Foles","team":"STL","pos":{"QB":[]},"points":261.1}
-{"name":"Ryan Fitzpatrick","team":"NYJ","pos":{"QB":[]},"points":213.1}
-{"name":"Marcus Mariota","team":"TEN","pos":{"QB":[]},"points":273}
-{"name":"Mike Glennon","team":"TB","pos":{"QB":[]},"points":25.1}
-{"name":"Tom Brady","team":"NE","pos":{"QB":[]},"points":268.7}
-{"name":"Cam Newton","team":"CAR","pos":{"QB":[]},"points":342.5}
-{"name":"Joe Flacco","team":"BAL","pos":{"QB":[]},"points":299.4}
-{"name":"Brian Hoyer","team":"HOU","pos":{"QB":[]},"points":157.7}
-{"name":"Sam Bradford","team":"PHI","pos":{"QB":[]},"points":252.1}
-{"name":"Josh McCown","team":"CLE","pos":{"QB":[]},"points":200.2}
-{"name":"Philip Rivers","team":"SD","pos":{"QB":[]},"points":336.3}
-{"name":"Jameis Winston","team":"TB","pos":{"QB":[]},"points":292}
-{"name":"Jimmy Garoppolo","team":"NE","pos":{"QB":[]},"points":76}
-{"name":"Austin Davis","team":"STL","pos":{"QB":[]},"points":16.1}
-{"name":"Ryan Tannehill","team":"MIA","pos":{"QB":[]},"points":332}
-{"name":"Derek Anderson","team":"CAR","pos":{"QB":[]},"points":22.5}
-{"name":"Tony Romo","team":"DAL","pos":{"QB":[]},"points":327.2}
-{"name":"Aaron Rodgers","team":"GB","pos":{"QB":[]},"points":399.6}
-{"name":"Russell Wilson","team":"SEA","pos":{"QB":[]},"points":363.1}
-{"name":"Kirk Cousins","team":"WAS","pos":{"QB":[]},"points":50.2}
-{"name":"Shaun Hill","team":"MIN","pos":{"QB":[]},"points":17.3}
-{"name":"Ben Roethlisberger","team":"PIT","pos":{"QB":[]},"points":344.1}
-{"name":"Blake Bortles","team":"JAC","pos":{"QB":[]},"points":265.8}
+{"name":"Philip Rivers","team":"SD","pos":{"QB":[]},"points":259.9}
+{"name":"Marcus Mariota","team":"TEN","pos":{"QB":[]},"points":209.4}
+{"name":"Teddy Bridgewater Upside","team":"MIN","pos":{"QB":[]},"points":237.6}
+{"name":"Chad Henne","team":"JAC","pos":{"QB":[]},"points":16.7}
+{"name":"Mike Glennon","team":"TB","pos":{"QB":[]},"points":14}
+{"name":"Shaun Hill","team":"MIN","pos":{"QB":[]},"points":12.6}
+{"name":"Jimmy Clausen","team":"CHI","pos":{"QB":[]},"points":9.9}
+{"name":"Josh McCown","team":"CLE","pos":{"QB":[]},"points":143.7}
+{"name":"Peyton Manning  Risk","team":"DEN","pos":{"QB":[]},"points":283.7}
+{"name":"Ryan Tannehill","team":"MIA","pos":{"QB":[]},"points":258.7}
+{"name":"Tony Romo","team":"DAL","pos":{"QB":[]},"points":268.3}
+{"name":"Ben Roethlisberger","team":"PIT","pos":{"QB":[]},"points":267.7}
+{"name":"Brian Hoyer","team":"HOU","pos":{"QB":[]},"points":112.2}
+{"name":"Carson Palmer  Risk","team":"ARI","pos":{"QB":[]},"points":216.9}
+{"name":"EJ Manuel","team":"BUF","pos":{"QB":[]},"points":59.2}
+{"name":"Jimmy Garoppolo","team":"NE","pos":{"QB":[]},"points":14.5}
+{"name":"Colin Kaepernick","team":"SF","pos":{"QB":[]},"points":264.7}
+{"name":"AJ McCarron","team":"CIN","pos":{"QB":[]},"points":16}
+{"name":"Russell Wilson Upside","team":"SEA","pos":{"QB":[]},"points":301.2}
+{"name":"Eli Manning","team":"NYG","pos":{"QB":[]},"points":243.6}
+{"name":"Chase Daniel","team":"KC","pos":{"QB":[]},"points":11.5}
+{"name":"Michael Vick","team":"PIT","pos":{"QB":[]},"points":11.1}
+{"name":"Derek Carr","team":"OAK","pos":{"QB":[]},"points":214.3}
+{"name":"Case Keenum","team":"STL","pos":{"QB":[]},"points":11.8}
+{"name":"Johnny Manziel","team":"CLE","pos":{"QB":[]},"points":57.5}
+{"name":"Aaron Rodgers","team":"GB","pos":{"QB":[]},"points":329.9}
+{"name":"Alex Smith","team":"KC","pos":{"QB":[]},"points":236}
+{"name":"Brandon Weeden","team":"DAL","pos":{"QB":[]},"points":17.9}
+{"name":"Colt McCoy","team":"WAS","pos":{"QB":[]},"points":37.5}
+{"name":"Ryan Fitzpatrick","team":"NYJ","pos":{"QB":[]},"points":161.8}
+{"name":"Sam Bradford Upside Risk","team":"PHI","pos":{"QB":[]},"points":211.6}
+{"name":"Jay Cutler","team":"CHI","pos":{"QB":[]},"points":238.7}
+{"name":"Andrew Luck","team":"IND","pos":{"QB":[]},"points":342.4}
+{"name":"Cam Newton","team":"CAR","pos":{"QB":[]},"points":273.9}
+{"name":"Geno Smith","team":"NYJ","pos":{"QB":[]},"points":81.3}
+{"name":"Mark Sanchez Upside","team":"PHI","pos":{"QB":[]},"points":66.6}
+{"name":"Blake Bortles","team":"JAC","pos":{"QB":[]},"points":205.5}
+{"name":"Tyrod Taylor","team":"BUF","pos":{"QB":[]},"points":163.2}
+{"name":"Joe Flacco","team":"BAL","pos":{"QB":[]},"points":227.6}
+{"name":"Zach Mettenberger","team":"TEN","pos":{"QB":[]},"points":27.7}
+{"name":"Kirk Cousins","team":"WAS","pos":{"QB":[]},"points":156.9}
+{"name":"Ryan Mallett","team":"HOU","pos":{"QB":[]},"points":91.7}
+{"name":"Andy Dalton","team":"CIN","pos":{"QB":[]},"points":229.7}
+{"name":"Jameis Winston  Risk","team":"TB","pos":{"QB":[]},"points":212}
+{"name":"Derek Anderson","team":"CAR","pos":{"QB":[]},"points":17.6}
+{"name":"Drew Brees  Risk","team":"NO","pos":{"QB":[]},"points":257}
+{"name":"Matt Ryan","team":"ATL","pos":{"QB":[]},"points":269.7}
+{"name":"Matthew Stafford","team":"DET","pos":{"QB":[]},"points":274.7}
+{"name":"Nick Foles","team":"STL","pos":{"QB":[]},"points":199.6}
+{"name":"Tom Brady  Risk","team":"NE","pos":{"QB":[]},"points":269.2}
