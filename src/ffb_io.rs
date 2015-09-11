@@ -36,7 +36,7 @@ pub fn read_raw_players(filename: &str, pos: Position, players: &mut HashMap<Str
                                    .map(|w| w.to_lowercase())
                                    .filter(|w| !w.is_empty())
                                    .collect();
-        let points: f32 = words[9].parse().unwrap();
+        let points: f32 = words.last().unwrap().parse().unwrap();
         let player = Player::new(&name, &team, pos.clone(), points);
         players.insert(name, player.clone());
     }

@@ -1,50 +1,200 @@
 {"name":"Philip Rivers","team":"SD","pos":{"QB":[]},"points":259.9}
-{"name":"Marcus Mariota","team":"TEN","pos":{"QB":[]},"points":209.4}
-{"name":"Teddy Bridgewater Upside","team":"MIN","pos":{"QB":[]},"points":237.6}
-{"name":"Chad Henne","team":"JAC","pos":{"QB":[]},"points":16.7}
-{"name":"Mike Glennon","team":"TB","pos":{"QB":[]},"points":14}
-{"name":"Shaun Hill","team":"MIN","pos":{"QB":[]},"points":12.6}
-{"name":"Jimmy Clausen","team":"CHI","pos":{"QB":[]},"points":9.9}
-{"name":"Josh McCown","team":"CLE","pos":{"QB":[]},"points":143.7}
-{"name":"Peyton Manning  Risk","team":"DEN","pos":{"QB":[]},"points":283.7}
-{"name":"Ryan Tannehill","team":"MIA","pos":{"QB":[]},"points":258.7}
-{"name":"Tony Romo","team":"DAL","pos":{"QB":[]},"points":268.3}
-{"name":"Ben Roethlisberger","team":"PIT","pos":{"QB":[]},"points":267.7}
-{"name":"Brian Hoyer","team":"HOU","pos":{"QB":[]},"points":112.2}
-{"name":"Carson Palmer  Risk","team":"ARI","pos":{"QB":[]},"points":216.9}
-{"name":"EJ Manuel","team":"BUF","pos":{"QB":[]},"points":59.2}
-{"name":"Jimmy Garoppolo","team":"NE","pos":{"QB":[]},"points":14.5}
-{"name":"Colin Kaepernick","team":"SF","pos":{"QB":[]},"points":264.7}
-{"name":"AJ McCarron","team":"CIN","pos":{"QB":[]},"points":16}
-{"name":"Russell Wilson Upside","team":"SEA","pos":{"QB":[]},"points":301.2}
-{"name":"Eli Manning","team":"NYG","pos":{"QB":[]},"points":243.6}
-{"name":"Chase Daniel","team":"KC","pos":{"QB":[]},"points":11.5}
-{"name":"Michael Vick","team":"PIT","pos":{"QB":[]},"points":11.1}
-{"name":"Derek Carr","team":"OAK","pos":{"QB":[]},"points":214.3}
-{"name":"Case Keenum","team":"STL","pos":{"QB":[]},"points":11.8}
-{"name":"Johnny Manziel","team":"CLE","pos":{"QB":[]},"points":57.5}
-{"name":"Aaron Rodgers","team":"GB","pos":{"QB":[]},"points":329.9}
-{"name":"Alex Smith","team":"KC","pos":{"QB":[]},"points":236}
-{"name":"Brandon Weeden","team":"DAL","pos":{"QB":[]},"points":17.9}
-{"name":"Colt McCoy","team":"WAS","pos":{"QB":[]},"points":37.5}
-{"name":"Ryan Fitzpatrick","team":"NYJ","pos":{"QB":[]},"points":161.8}
-{"name":"Sam Bradford Upside Risk","team":"PHI","pos":{"QB":[]},"points":211.6}
+{"name":"Golden Tate","team":"DET","pos":{"WR":[]},"points":165.6}
+{"name":"Terrance Williams","team":"DAL","pos":{"WR":[]},"points":134.1}
+{"name":"Joe Flacco","team":"BAL","pos":{"QB":[]},"points":227.6}
+{"name":"Charles Clay","team":"BUF","pos":{"TE":[]},"points":109.1}
+{"name":"Mychal Rivera","team":"OAK","pos":{"TE":[]},"points":87.5}
+{"name":"Alshon Jeffery  Risk","team":"CHI","pos":{"WR":[]},"points":207.2}
+{"name":"Dion Sims","team":"MIA","pos":{"TE":[]},"points":37}
+{"name":"Tom Brady  Risk","team":"NE","pos":{"QB":[]},"points":269.2}
+{"name":"Jeremy Hill","team":"CIN","pos":{"RB":[]},"points":205.1}
+{"name":"Arian Foster  Risk","team":"HOU","pos":{"RB":[]},"points":123.7}
+{"name":"Le'Veon Bell  Risk","team":"PIT","pos":{"RB":[]},"points":243.5}
+{"name":"Marshawn Lynch","team":"SEA","pos":{"RB":[]},"points":247.8}
+{"name":"Jason Witten","team":"DAL","pos":{"TE":[]},"points":139.9}
+{"name":"Kendall Wright","team":"TEN","pos":{"WR":[]},"points":144.2}
+{"name":"Jacob Tamme","team":"ATL","pos":{"TE":[]},"points":54.3}
+{"name":"Brandin Cooks Upside","team":"NO","pos":{"WR":[]},"points":184.1}
+{"name":"Todd Gurley  Risk","team":"STL","pos":{"RB":[]},"points":140.2}
+{"name":"Frank Gore Upside Risk","team":"IND","pos":{"RB":[]},"points":185.5}
+{"name":"Roy Helu","team":"OAK","pos":{"RB":[]},"points":104.6}
+{"name":"Eric Ebron  Risk","team":"DET","pos":{"TE":[]},"points":93.8}
+{"name":"Vernon Davis","team":"SF","pos":{"TE":[]},"points":118.7}
+{"name":"Kirk Cousins","team":"WAS","pos":{"QB":[]},"points":156.9}
+{"name":"Coby Fleener","team":"IND","pos":{"TE":[]},"points":126.5}
+{"name":"Clive Walford","team":"OAK","pos":{"TE":[]},"points":66.4}
+{"name":"Melvin Gordon","team":"SD","pos":{"RB":[]},"points":177}
+{"name":"Mike Evans","team":"TB","pos":{"WR":[]},"points":197.9}
+{"name":"Mike Wallace Upside","team":"MIN","pos":{"WR":[]},"points":150.8}
+{"name":"Jimmy Graham Upside Risk","team":"SEA","pos":{"TE":[]},"points":167.7}
+{"name":"Alfred Blue","team":"HOU","pos":{"RB":[]},"points":106.6}
 {"name":"Jay Cutler","team":"CHI","pos":{"QB":[]},"points":238.7}
+{"name":"Michael Floyd  Risk","team":"ARI","pos":{"WR":[]},"points":131.4}
+{"name":"Marcedes Lewis","team":"JAC","pos":{"TE":[]},"points":58}
+{"name":"Demaryius Thomas","team":"DEN","pos":{"WR":[]},"points":257.9}
+{"name":"Damien Williams","team":"MIA","pos":{"RB":[]},"points":82.3}
+{"name":"Larry Fitzgerald  Risk","team":"ARI","pos":{"WR":[]},"points":145.3}
+{"name":"Denard Robinson","team":"JAC","pos":{"RB":[]},"points":80.3}
+{"name":"Danny Woodhead","team":"SD","pos":{"RB":[]},"points":108.2}
+{"name":"Anquan Boldin","team":"SF","pos":{"WR":[]},"points":157.9}
+{"name":"Peyton Manning  Risk","team":"DEN","pos":{"QB":[]},"points":283.7}
+{"name":"Ed Dickson","team":"CAR","pos":{"TE":[]},"points":28.9}
+{"name":"Mark Ingram","team":"NO","pos":{"RB":[]},"points":197.1}
+{"name":"Shaun Hill","team":"MIN","pos":{"QB":[]},"points":12.6}
+{"name":"Brent Celek","team":"PHI","pos":{"TE":[]},"points":72}
+{"name":"Eddie Lacy","team":"GB","pos":{"RB":[]},"points":245.8}
+{"name":"Case Keenum","team":"STL","pos":{"QB":[]},"points":11.8}
+{"name":"Colt McCoy","team":"WAS","pos":{"QB":[]},"points":37.5}
+{"name":"Tony Romo","team":"DAL","pos":{"QB":[]},"points":268.3}
+{"name":"Jonathan Stewart","team":"CAR","pos":{"RB":[]},"points":163.6}
+{"name":"Ben Watson","team":"NO","pos":{"TE":[]},"points":59.8}
+{"name":"Virgil Green","team":"DEN","pos":{"TE":[]},"points":51.1}
+{"name":"Brandon Myers","team":"TB","pos":{"TE":[]},"points":31.9}
+{"name":"Jamaal Charles","team":"KC","pos":{"RB":[]},"points":252.7}
+{"name":"Charles Sims","team":"TB","pos":{"RB":[]},"points":96}
+{"name":"Matthew Stafford","team":"DET","pos":{"QB":[]},"points":274.7}
+{"name":"Calvin Johnson","team":"DET","pos":{"WR":[]},"points":219.9}
+{"name":"Joique Bell  Risk","team":"DET","pos":{"RB":[]},"points":139.4}
+{"name":"Knile Davis","team":"KC","pos":{"RB":[]},"points":87.9}
+{"name":"Mark Sanchez Upside","team":"PHI","pos":{"QB":[]},"points":66.6}
+{"name":"Martellus Bennett  Risk","team":"CHI","pos":{"TE":[]},"points":148.2}
+{"name":"Allen Robinson","team":"JAC","pos":{"WR":[]},"points":143.5}
+{"name":"Brandon Weeden","team":"DAL","pos":{"QB":[]},"points":17.9}
+{"name":"Richard Rodgers","team":"GB","pos":{"TE":[]},"points":93.5}
+{"name":"Tevin Coleman Upside","team":"ATL","pos":{"RB":[]},"points":144.5}
+{"name":"Rob Gronkowski","team":"NE","pos":{"TE":[]},"points":208.4}
+{"name":"Carlos Hyde","team":"SF","pos":{"RB":[]},"points":168.2}
+{"name":"Torrey Smith  Risk","team":"SF","pos":{"WR":[]},"points":138.5}
+{"name":"DeMarco Murray","team":"PHI","pos":{"RB":[]},"points":231.4}
+{"name":"DeAndre Hopkins Upside","team":"HOU","pos":{"WR":[]},"points":222}
+{"name":"Matt Ryan","team":"ATL","pos":{"QB":[]},"points":269.7}
+{"name":"Colin Kaepernick","team":"SF","pos":{"QB":[]},"points":264.7}
+{"name":"T.Y. Hilton","team":"IND","pos":{"WR":[]},"points":190.3}
+{"name":"Steve Smith","team":"BAL","pos":{"WR":[]},"points":159.5}
+{"name":"Matt Forte","team":"CHI","pos":{"RB":[]},"points":239.4}
+{"name":"Zach Mettenberger","team":"TEN","pos":{"QB":[]},"points":27.7}
+{"name":"Duke Johnson","team":"CLE","pos":{"RB":[]},"points":102.2}
+{"name":"T.J. Yeldon Upside","team":"JAC","pos":{"RB":[]},"points":158.7}
+{"name":"Aaron Rodgers","team":"GB","pos":{"QB":[]},"points":329.9}
+{"name":"Antonio Gates  Risk","team":"SD","pos":{"TE":[]},"points":108.3}
+{"name":"Marques Colston","team":"NO","pos":{"WR":[]},"points":140}
+{"name":"Reggie Bush","team":"SF","pos":{"RB":[]},"points":95.8}
+{"name":"Tyler Eifert","team":"CIN","pos":{"TE":[]},"points":109.6}
+{"name":"Mike Glennon","team":"TB","pos":{"QB":[]},"points":14}
+{"name":"Darren McFadden","team":"DAL","pos":{"RB":[]},"points":97.9}
+{"name":"C.J. Spiller","team":"NO","pos":{"RB":[]},"points":152.7}
+{"name":"Austin Seferian-Jenkins","team":"TB","pos":{"TE":[]},"points":105.2}
+{"name":"Vincent Jackson","team":"TB","pos":{"WR":[]},"points":160.1}
+{"name":"Alfred Morris","team":"WAS","pos":{"RB":[]},"points":158.4}
+{"name":"Geno Smith","team":"NYJ","pos":{"QB":[]},"points":81.3}
+{"name":"DeSean Jackson","team":"WAS","pos":{"WR":[]},"points":168.2}
+{"name":"John Brown","team":"ARI","pos":{"WR":[]},"points":147.2}
+{"name":"Marcus Mariota","team":"TEN","pos":{"QB":[]},"points":209.4}
+{"name":"Owen Daniels","team":"DEN","pos":{"TE":[]},"points":119.8}
+{"name":"Garrett Graham","team":"HOU","pos":{"TE":[]},"points":59.5}
+{"name":"Ryan Mallett","team":"HOU","pos":{"QB":[]},"points":91.7}
+{"name":"Carson Palmer  Risk","team":"ARI","pos":{"QB":[]},"points":216.9}
+{"name":"Kyle Rudolph  Risk","team":"MIN","pos":{"TE":[]},"points":115.5}
+{"name":"Ryan Tannehill","team":"MIA","pos":{"QB":[]},"points":258.7}
+{"name":"Davante Adams Upside","team":"GB","pos":{"WR":[]},"points":176.4}
+{"name":"Drew Brees  Risk","team":"NO","pos":{"QB":[]},"points":257}
+{"name":"Brandon Pettigrew","team":"DET","pos":{"TE":[]},"points":34.1}
+{"name":"Sammy Watkins  Risk","team":"BUF","pos":{"WR":[]},"points":160}
+{"name":"Isaiah Crowell","team":"CLE","pos":{"RB":[]},"points":155.3}
+{"name":"Josh McCown","team":"CLE","pos":{"QB":[]},"points":143.7}
+{"name":"Tre Mason","team":"STL","pos":{"RB":[]},"points":86.3}
+{"name":"Derek Anderson","team":"CAR","pos":{"QB":[]},"points":17.6}
+{"name":"Charles Johnson Upside","team":"MIN","pos":{"WR":[]},"points":153.2}
+{"name":"Zach Ertz Upside","team":"PHI","pos":{"TE":[]},"points":109.5}
+{"name":"Andy Dalton","team":"CIN","pos":{"QB":[]},"points":229.7}
+{"name":"Chris Ivory","team":"NYJ","pos":{"RB":[]},"points":154}
+{"name":"Jared Cook","team":"STL","pos":{"TE":[]},"points":105.9}
+{"name":"C.J. Anderson","team":"DEN","pos":{"RB":[]},"points":230.1}
+{"name":"Jeremy Maclin  Risk","team":"KC","pos":{"WR":[]},"points":159.2}
+{"name":"Jimmy Clausen","team":"CHI","pos":{"QB":[]},"points":9.9}
+{"name":"Darren Fells","team":"ARI","pos":{"TE":[]},"points":38.5}
+{"name":"Andrew Quarless","team":"GB","pos":{"TE":[]},"points":54}
+{"name":"Bishop Sankey","team":"TEN","pos":{"RB":[]},"points":93.7}
+{"name":"Randall Cobb  Risk","team":"GB","pos":{"WR":[]},"points":210.6}
+{"name":"Michael Vick","team":"PIT","pos":{"QB":[]},"points":11.1}
+{"name":"Jordan Cameron","team":"MIA","pos":{"TE":[]},"points":109.5}
+{"name":"Tyrod Taylor","team":"BUF","pos":{"QB":[]},"points":163.2}
+{"name":"Roddy White","team":"ATL","pos":{"WR":[]},"points":150.5}
+{"name":"Lamar Miller","team":"MIA","pos":{"RB":[]},"points":190.2}
+{"name":"Blake Bortles","team":"JAC","pos":{"QB":[]},"points":205.5}
+{"name":"Devin Funchess Upside","team":"CAR","pos":{"WR":[]},"points":133.2}
+{"name":"Ryan Fitzpatrick","team":"NYJ","pos":{"QB":[]},"points":161.8}
+{"name":"Johnny Manziel","team":"CLE","pos":{"QB":[]},"points":57.5}
+{"name":"Doug Martin","team":"TB","pos":{"RB":[]},"points":151.1}
+{"name":"Jermaine Gresham","team":"ARI","pos":{"TE":[]},"points":51.1}
+{"name":"Sam Bradford Upside Risk","team":"PHI","pos":{"QB":[]},"points":211.6}
+{"name":"Dwayne Allen","team":"IND","pos":{"TE":[]},"points":116.6}
+{"name":"Adrian Peterson Upside Risk","team":"MIN","pos":{"RB":[]},"points":244.2}
+{"name":"Rueben Randle","team":"NYG","pos":{"WR":[]},"points":138.2}
+{"name":"Dwayne Bowe","team":"CLE","pos":{"WR":[]},"points":121}
+{"name":"EJ Manuel","team":"BUF","pos":{"QB":[]},"points":59.2}
+{"name":"Shane Vereen","team":"NYG","pos":{"RB":[]},"points":117.9}
+{"name":"Nick Foles","team":"STL","pos":{"QB":[]},"points":199.6}
+{"name":"Josh Hill","team":"NO","pos":{"TE":[]},"points":110.8}
+{"name":"Ameer Abdullah","team":"DET","pos":{"RB":[]},"points":160.7}
+{"name":"Teddy Bridgewater Upside","team":"MIN","pos":{"QB":[]},"points":237.6}
+{"name":"Jameis Winston  Risk","team":"TB","pos":{"QB":[]},"points":212}
+{"name":"Devonta Freeman","team":"ATL","pos":{"RB":[]},"points":123.6}
+{"name":"Eli Manning","team":"NYG","pos":{"QB":[]},"points":243.6}
+{"name":"Maxx Williams","team":"BAL","pos":{"TE":[]},"points":54.3}
+{"name":"Lance Kendricks","team":"STL","pos":{"TE":[]},"points":63.6}
+{"name":"Julius Thomas  Risk","team":"JAC","pos":{"TE":[]},"points":89.7}
+{"name":"A.J. Green","team":"CIN","pos":{"WR":[]},"points":237}
+{"name":"Andre Ellington  Risk","team":"ARI","pos":{"RB":[]},"points":174.7}
+{"name":"Rashad Jennings","team":"NYG","pos":{"RB":[]},"points":155.7}
+{"name":"Jimmy Garoppolo","team":"NE","pos":{"QB":[]},"points":14.5}
+{"name":"Keenan Allen","team":"SD","pos":{"WR":[]},"points":161.1}
+{"name":"Crockett Gillmore","team":"BAL","pos":{"TE":[]},"points":68.1}
+{"name":"Doug Baldwin","team":"SEA","pos":{"WR":[]},"points":138.4}
+{"name":"Jarvis Landry","team":"MIA","pos":{"WR":[]},"points":164.6}
+{"name":"Dez Bryant","team":"DAL","pos":{"WR":[]},"points":251.5}
+{"name":"AJ McCarron","team":"CIN","pos":{"QB":[]},"points":16}
+{"name":"Justin Forsett Upside","team":"BAL","pos":{"RB":[]},"points":219.9}
+{"name":"Latavius Murray Upside","team":"OAK","pos":{"RB":[]},"points":173}
+{"name":"Ryan Mathews Upside","team":"PHI","pos":{"RB":[]},"points":92.5}
+{"name":"Travis Kelce","team":"KC","pos":{"TE":[]},"points":150.4}
+{"name":"Scott Chandler","team":"NE","pos":{"TE":[]},"points":58.1}
+{"name":"LeGarrette Blount Upside","team":"NE","pos":{"RB":[]},"points":157.3}
+{"name":"Chase Daniel","team":"KC","pos":{"QB":[]},"points":11.5}
+{"name":"Amari Cooper Upside","team":"OAK","pos":{"WR":[]},"points":156.8}
+{"name":"Kenny Britt","team":"STL","pos":{"WR":[]},"points":126.3}
+{"name":"Giovani Bernard","team":"CIN","pos":{"RB":[]},"points":161.3}
+{"name":"Eric Decker","team":"NYJ","pos":{"WR":[]},"points":155.1}
+{"name":"Jordan Reed Upside Risk","team":"WAS","pos":{"TE":[]},"points":108.2}
+{"name":"Julio Jones","team":"ATL","pos":{"WR":[]},"points":243.2}
+{"name":"Julian Edelman  Risk","team":"NE","pos":{"WR":[]},"points":178.1}
+{"name":"Russell Wilson Upside","team":"SEA","pos":{"QB":[]},"points":301.2}
+{"name":"Markus Wheaton","team":"PIT","pos":{"WR":[]},"points":139.5}
+{"name":"Greg Olsen","team":"CAR","pos":{"TE":[]},"points":169.5}
+{"name":"Andre Johnson Upside","team":"IND","pos":{"WR":[]},"points":175.5}
+{"name":"Heath Miller","team":"PIT","pos":{"TE":[]},"points":115.4}
+{"name":"Kenny Stills","team":"MIA","pos":{"WR":[]},"points":125.9}
+{"name":"Brandon Marshall  Risk","team":"NYJ","pos":{"WR":[]},"points":161.2}
+{"name":"Darren Sproles","team":"PHI","pos":{"RB":[]},"points":112.3}
+{"name":"Robert Housler","team":"CLE","pos":{"TE":[]},"points":58}
+{"name":"Larry Donnell","team":"NYG","pos":{"TE":[]},"points":89}
+{"name":"Levine Toilolo","team":"ATL","pos":{"TE":[]},"points":54.7}
+{"name":"Jeff Cumberland","team":"NYJ","pos":{"TE":[]},"points":61.8}
+{"name":"Pierre Garcon","team":"WAS","pos":{"WR":[]},"points":150.1}
+{"name":"Ladarius Green Upside","team":"SD","pos":{"TE":[]},"points":81.9}
+{"name":"Alex Smith","team":"KC","pos":{"QB":[]},"points":236}
+{"name":"Brian Hoyer","team":"HOU","pos":{"QB":[]},"points":112.2}
+{"name":"Joseph Randle","team":"DAL","pos":{"RB":[]},"points":155.4}
+{"name":"Nelson Agholor Upside","team":"PHI","pos":{"WR":[]},"points":133.5}
+{"name":"LeSean McCoy  Risk","team":"BUF","pos":{"RB":[]},"points":188.8}
+{"name":"Odell Beckham Jr.","team":"NYG","pos":{"WR":[]},"points":271.7}
 {"name":"Andrew Luck","team":"IND","pos":{"QB":[]},"points":342.4}
 {"name":"Cam Newton","team":"CAR","pos":{"QB":[]},"points":273.9}
-{"name":"Geno Smith","team":"NYJ","pos":{"QB":[]},"points":81.3}
-{"name":"Mark Sanchez Upside","team":"PHI","pos":{"QB":[]},"points":66.6}
-{"name":"Blake Bortles","team":"JAC","pos":{"QB":[]},"points":205.5}
-{"name":"Tyrod Taylor","team":"BUF","pos":{"QB":[]},"points":163.2}
-{"name":"Joe Flacco","team":"BAL","pos":{"QB":[]},"points":227.6}
-{"name":"Zach Mettenberger","team":"TEN","pos":{"QB":[]},"points":27.7}
-{"name":"Kirk Cousins","team":"WAS","pos":{"QB":[]},"points":156.9}
-{"name":"Ryan Mallett","team":"HOU","pos":{"QB":[]},"points":91.7}
-{"name":"Andy Dalton","team":"CIN","pos":{"QB":[]},"points":229.7}
-{"name":"Jameis Winston  Risk","team":"TB","pos":{"QB":[]},"points":212}
-{"name":"Derek Anderson","team":"CAR","pos":{"QB":[]},"points":17.6}
-{"name":"Drew Brees  Risk","team":"NO","pos":{"QB":[]},"points":257}
-{"name":"Matt Ryan","team":"ATL","pos":{"QB":[]},"points":269.7}
-{"name":"Matthew Stafford","team":"DET","pos":{"QB":[]},"points":274.7}
-{"name":"Nick Foles","team":"STL","pos":{"QB":[]},"points":199.6}
-{"name":"Tom Brady  Risk","team":"NE","pos":{"QB":[]},"points":269.2}
+{"name":"Delanie Walker","team":"TEN","pos":{"TE":[]},"points":137}
+{"name":"Ben Roethlisberger","team":"PIT","pos":{"QB":[]},"points":267.7}
+{"name":"Antonio Brown Upside","team":"PIT","pos":{"WR":[]},"points":267.8}
+{"name":"Jordan Matthews Upside","team":"PHI","pos":{"WR":[]},"points":193.9}
+{"name":"Derek Carr","team":"OAK","pos":{"QB":[]},"points":214.3}
+{"name":"Emmanuel Sanders  Risk","team":"DEN","pos":{"WR":[]},"points":182.5}
+{"name":"Gavin Escobar","team":"DAL","pos":{"TE":[]},"points":39.4}
+{"name":"Chad Henne","team":"JAC","pos":{"QB":[]},"points":16.7}
