@@ -25,10 +25,10 @@ pub fn main_loop() {
                 "write_db"  => write_db_json(&mut params, &mut engine),
                 "print"     => engine.print(),
                 "clear"     => engine.clear(),
+                "create_team"   => create_team(&mut params, &mut engine),
                 _           => println!("Unknown command: {}", first_word),
             }
         }
-
     }
 }
 
@@ -66,5 +66,11 @@ pub fn read_db_json(params: &mut Params, engine: &mut FFBEngine) {
 pub fn write_db_json(params: &mut Params, engine: &mut FFBEngine) {
     let filename = params.next().unwrap();
     write_players_json(filename, &mut engine.players);
+}
+
+/// Create a fantasy team
+pub fn create_team(params: &mut Params, engine: &mut FFBEngine) {
+    let teamname = params.next().unwrap();
+    engine.create_team(teamname);
 }
 
